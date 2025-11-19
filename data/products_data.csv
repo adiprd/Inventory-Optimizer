@@ -1,0 +1,201 @@
+product_id,product_name,category,cost_price,selling_price,supplier
+1,Son Himself,Beauty,26.71,58.49,Supplier B
+2,Within Could,Clothing,32.21,45.83,Supplier A
+3,Although Partner,Books,87.27,116.57,Supplier B
+4,Write Open,Clothing,103.54,137.9,Supplier B
+5,Eye Less,Beauty,131.73,257.39,Supplier B
+6,Then Once,Sports,119.91,272.35,Supplier A
+7,View Side,Clothing,141.14,241.11,Supplier B
+8,Enter Affect,Clothing,191.66,326.57,Supplier A
+9,Increase Strong,Sports,23.86,55.28,Supplier C
+10,Continue Respond,Electronics,147.3,286.27,Supplier D
+11,Cold Series,Electronics,112.65,258.56,Supplier C
+12,Deal Movement,Books,42.5,58.8,Supplier B
+13,Already Though,Home & Garden,197.12,458.58,Supplier A
+14,Experience Similar,Sports,59.2,122.12,Supplier C
+15,Individual Speech,Clothing,77.19,119.75,Supplier C
+16,Try Country,Beauty,187.65,389.87,Supplier B
+17,Baby Both,Books,147.18,220.19,Supplier D
+18,Thing Positive,Home & Garden,197.96,409.38,Supplier B
+19,Now Black,Beauty,68.24,151.63,Supplier A
+20,View Yard,Clothing,165.25,374.47,Supplier D
+21,Audience Show,Home & Garden,17.91,42.91,Supplier C
+22,Box Figure,Clothing,132.81,235.71,Supplier D
+23,Phone Perhaps,Clothing,56.65,90.41,Supplier C
+24,Student Someone,Beauty,118.99,282.89,Supplier D
+25,South National,Home & Garden,47.77,119.28,Supplier D
+26,Reveal Water,Electronics,152.38,355.55,Supplier B
+27,Back Clear,Beauty,36.2,76.62,Supplier A
+28,With More,Sports,79.42,198.18,Supplier C
+29,Market West,Books,172.85,227.09,Supplier A
+30,At See,Beauty,177.53,390.75,Supplier C
+31,Various Authority,Electronics,62.23,92.71,Supplier A
+32,Very Maybe,Beauty,175.79,284.09,Supplier B
+33,Huge Kind,Books,182.96,428.97,Supplier C
+34,Population Sister,Beauty,103.99,160.01,Supplier C
+35,Go National,Clothing,110.18,246.18,Supplier A
+36,Cost Nearly,Books,68.21,90.27,Supplier C
+37,Middle Meet,Home & Garden,51.69,82.14,Supplier A
+38,Professional Bring,Electronics,147.72,336.69,Supplier B
+39,Team Sea,Clothing,133.65,325.6,Supplier B
+40,Unit Prevent,Home & Garden,107.9,218.81,Supplier B
+41,Industry Team,Books,152.28,324.03,Supplier C
+42,News News,Sports,199.05,413.99,Supplier D
+43,Modern Instead,Books,93.04,148.63,Supplier A
+44,Item Support,Home & Garden,9.1,17.88,Supplier B
+45,Way Travel,Electronics,18.84,38.76,Supplier B
+46,Necessary Simply,Electronics,181.56,423.32,Supplier A
+47,Able Music,Books,51.41,108.1,Supplier B
+48,Also Miss,Books,30.8,74.62,Supplier D
+49,Majority Trade,Clothing,158.0,358.5,Supplier B
+50,Compare Require,Electronics,23.9,43.43,Supplier D
+51,Subject Exactly,Sports,96.07,208.94,Supplier A
+52,Manager Couple,Electronics,83.51,142.57,Supplier A
+53,Political Party,Clothing,42.36,82.33,Supplier B
+54,Recognize Arm,Sports,40.78,75.65,Supplier A
+55,Against Herself,Sports,162.56,378.3,Supplier A
+56,Entire Impact,Electronics,132.17,257.56,Supplier A
+57,Player Share,Electronics,185.64,430.39,Supplier B
+58,Carry Wear,Sports,99.7,155.18,Supplier D
+59,Big Tax,Electronics,37.1,48.33,Supplier D
+60,Old Subject,Home & Garden,185.67,416.3,Supplier C
+61,Even Couple,Sports,140.84,306.55,Supplier D
+62,Response Require,Clothing,42.03,65.62,Supplier A
+63,Family Job,Books,148.47,203.87,Supplier C
+64,Side If,Electronics,14.78,27.67,Supplier B
+65,Strategy Doctor,Electronics,192.35,268.55,Supplier B
+66,General Send,Electronics,121.03,255.4,Supplier B
+67,Until Office,Sports,28.38,67.21,Supplier B
+68,They Prove,Books,120.93,247.09,Supplier D
+69,Price Course,Beauty,118.82,229.01,Supplier C
+70,Stand Bring,Clothing,135.6,227.4,Supplier C
+71,World Be,Sports,30.52,63.32,Supplier D
+72,Term Cell,Home & Garden,186.16,451.04,Supplier A
+73,Become End,Sports,126.13,249.18,Supplier A
+74,Accept Day,Electronics,109.84,209.47,Supplier B
+75,Human State,Home & Garden,176.77,416.32,Supplier C
+76,Meeting Whether,Home & Garden,35.76,82.27,Supplier C
+77,Quite Food,Books,196.85,446.56,Supplier A
+78,Cold Hotel,Beauty,164.34,272.68,Supplier A
+79,Bed Night,Clothing,56.57,133.94,Supplier B
+80,Identify Course,Home & Garden,59.94,93.07,Supplier C
+81,Lot Song,Clothing,139.06,323.11,Supplier D
+82,Worker Specific,Home & Garden,181.54,420.32,Supplier A
+83,Nor Second,Beauty,87.6,142.96,Supplier A
+84,While Down,Home & Garden,155.37,320.77,Supplier C
+85,Walk Leg,Clothing,149.54,293.4,Supplier D
+86,Including Organization,Books,6.89,9.58,Supplier B
+87,Perhaps Call,Books,12.03,20.97,Supplier B
+88,Take Whose,Sports,29.85,49.85,Supplier A
+89,Politics Another,Home & Garden,45.96,73.51,Supplier A
+90,Approach Find,Home & Garden,157.12,370.95,Supplier D
+91,North Marriage,Books,151.15,364.41,Supplier B
+92,Quite Course,Clothing,195.36,444.04,Supplier D
+93,Increase Well,Electronics,39.98,96.33,Supplier D
+94,Forward Hear,Beauty,173.49,394.33,Supplier C
+95,Attention Buy,Clothing,158.54,226.67,Supplier A
+96,Recently Court,Sports,48.37,110.28,Supplier D
+97,Defense Appear,Home & Garden,64.51,145.43,Supplier B
+98,Focus Explain,Clothing,9.61,14.72,Supplier C
+99,Author Hundred,Home & Garden,173.55,426.98,Supplier C
+100,While End,Home & Garden,130.09,231.51,Supplier C
+101,Material Again,Electronics,27.49,67.75,Supplier B
+102,Record Later,Books,192.69,311.88,Supplier A
+103,Unit Loss,Books,89.74,195.12,Supplier C
+104,Administration Reach,Sports,123.21,235.79,Supplier D
+105,Trial Although,Books,42.07,56.93,Supplier D
+106,Meet Film,Electronics,106.38,241.25,Supplier B
+107,Everybody Gas,Home & Garden,89.1,217.28,Supplier C
+108,Others Participant,Books,66.21,153.45,Supplier C
+109,Next Factor,Books,65.31,116.91,Supplier D
+110,Court Heart,Beauty,62.65,91.01,Supplier D
+111,Such Energy,Beauty,188.37,397.98,Supplier B
+112,Trouble Tend,Books,115.98,207.29,Supplier A
+113,Always Security,Home & Garden,60.95,110.68,Supplier C
+114,Book Develop,Sports,91.15,192.4,Supplier D
+115,Teacher Social,Beauty,38.09,53.39,Supplier C
+116,Value If,Electronics,164.59,362.32,Supplier C
+117,Game Task,Clothing,162.28,239.66,Supplier A
+118,Image Necessary,Clothing,196.87,400.34,Supplier A
+119,Similar Bill,Sports,85.82,176.42,Supplier B
+120,Generation Understand,Beauty,140.79,266.55,Supplier B
+121,Most Consider,Clothing,132.93,173.69,Supplier A
+122,Meeting Tonight,Sports,47.67,107.97,Supplier D
+123,Race Pm,Electronics,113.69,272.97,Supplier A
+124,Sure Majority,Sports,31.0,57.58,Supplier C
+125,Hot Language,Sports,124.47,269.24,Supplier D
+126,Avoid Still,Books,91.95,137.1,Supplier D
+127,Various Sea,Sports,55.54,88.68,Supplier C
+128,Unit Company,Books,99.5,157.92,Supplier D
+129,Remember Watch,Electronics,144.14,227.94,Supplier C
+130,Reach Its,Home & Garden,179.14,250.2,Supplier B
+131,Last Coach,Clothing,79.69,118.21,Supplier B
+132,Fire Book,Electronics,85.9,145.78,Supplier D
+133,Majority Because,Sports,17.14,39.41,Supplier D
+134,Position Degree,Books,189.48,250.77,Supplier D
+135,Consider Eight,Sports,6.15,10.59,Supplier D
+136,Evening Relationship,Sports,109.95,239.86,Supplier B
+137,Lawyer Thousand,Sports,47.79,87.12,Supplier A
+138,Face Well,Sports,70.55,149.21,Supplier D
+139,Everybody Three,Beauty,37.18,69.19,Supplier B
+140,Bad Agreement,Books,109.15,260.68,Supplier A
+141,Nation Hot,Electronics,130.34,190.67,Supplier D
+142,Choose From,Clothing,14.81,25.99,Supplier B
+143,The Surface,Sports,68.73,152.13,Supplier D
+144,School Body,Home & Garden,151.64,348.52,Supplier C
+145,Yet Factor,Electronics,96.71,212.65,Supplier A
+146,Such Forget,Home & Garden,48.72,67.35,Supplier A
+147,Kid To,Electronics,190.17,292.72,Supplier A
+148,Show Sing,Books,34.71,50.38,Supplier A
+149,Heavy Office,Books,189.81,352.67,Supplier C
+150,Do Toward,Home & Garden,37.72,76.52,Supplier A
+151,White View,Clothing,193.12,276.11,Supplier A
+152,Reason Enough,Home & Garden,117.28,280.26,Supplier D
+153,Yet Line,Sports,188.59,290.05,Supplier B
+154,Huge Win,Electronics,140.95,234.24,Supplier A
+155,Many Successful,Books,157.61,270.56,Supplier D
+156,Trip Modern,Beauty,77.26,147.35,Supplier C
+157,Remember Write,Electronics,170.67,390.29,Supplier A
+158,Television Police,Sports,192.35,396.76,Supplier D
+159,Significant Upon,Beauty,34.83,52.64,Supplier C
+160,Capital Possible,Books,162.6,316.39,Supplier D
+161,Major Trip,Sports,89.94,195.82,Supplier C
+162,Physical Ten,Home & Garden,171.08,392.95,Supplier A
+163,Oil Other,Home & Garden,176.92,281.77,Supplier D
+164,Central Test,Books,124.01,217.61,Supplier A
+165,Property Record,Sports,170.94,259.52,Supplier B
+166,Tax Turn,Home & Garden,160.58,274.34,Supplier C
+167,Tough Heart,Books,6.98,17.01,Supplier A
+168,Purpose Low,Clothing,145.41,274.29,Supplier B
+169,Window Resource,Beauty,97.84,210.77,Supplier D
+170,Coach Leader,Electronics,23.15,36.25,Supplier B
+171,Look Deep,Home & Garden,134.47,234.36,Supplier C
+172,Industry Issue,Sports,199.34,390.8,Supplier C
+173,Character True,Beauty,93.48,155.92,Supplier B
+174,Painting Along,Electronics,145.65,244.5,Supplier B
+175,Truth Save,Clothing,47.2,88.79,Supplier C
+176,Trouble Fill,Electronics,167.36,277.06,Supplier C
+177,Difficult Half,Clothing,63.94,137.45,Supplier B
+178,Improve Lawyer,Home & Garden,13.88,18.95,Supplier C
+179,Artist Home,Beauty,189.1,390.58,Supplier D
+180,Through Son,Electronics,175.18,348.41,Supplier D
+181,Current How,Sports,90.89,138.27,Supplier A
+182,Suggest Tell,Home & Garden,188.51,353.13,Supplier A
+183,Property Three,Sports,100.89,201.02,Supplier A
+184,Center Realize,Clothing,34.09,67.34,Supplier C
+185,Father Study,Electronics,198.81,286.71,Supplier D
+186,Garden Change,Books,121.24,247.58,Supplier D
+187,Involve Great,Sports,182.16,301.81,Supplier D
+188,These Language,Home & Garden,115.88,159.02,Supplier A
+189,Senior Imagine,Clothing,126.98,205.4,Supplier A
+190,Risk War,Clothing,51.77,101.59,Supplier B
+191,And Religious,Electronics,84.66,180.09,Supplier D
+192,Worry Person,Home & Garden,11.36,18.7,Supplier C
+193,Example Pass,Beauty,172.62,239.15,Supplier B
+194,While Lose,Home & Garden,158.63,325.2,Supplier B
+195,Hundred People,Sports,27.38,42.98,Supplier B
+196,Democrat Quality,Home & Garden,166.19,230.29,Supplier B
+197,Determine Each,Home & Garden,121.03,277.05,Supplier C
+198,Choice Country,Sports,29.25,62.2,Supplier D
+199,Far North,Home & Garden,102.59,194.16,Supplier A
+200,Choose Door,Books,12.77,23.22,Supplier C
